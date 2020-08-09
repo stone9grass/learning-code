@@ -4,3 +4,5 @@ Git has a mutable index called stage
 git add readme.txt
 git rebase
 git pull --rebase
+git fetch 
+git merge
